@@ -19,6 +19,10 @@ Hi there 👋, I'm Debbie Mong’are
 - Monitoring & Observability: Prometheus, Grafana
 - Databases: PostgreSQL, MySQL
 
+---
+**🤝 Let's Connect!**
+https://www.linkedin.com/in/debbie-mong-are-905584131/
+
 <!--
 **DebbieArita/DebbieArita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
