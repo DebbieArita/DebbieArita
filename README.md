@@ -11,15 +11,6 @@ Hi there 👋, I'm Debbie Mong’are
 - 💖 Vegetarian | 🤸🏽‍♀️ Fitness Enthusiast | 🌴 Mombasa native
 
 ---
-
-**🧰 Tech Stack**
-- Languages: Kotlin, Java, Python, Golang, Bash
-- Frameworks & Tools: Docker, Kubernetes, Helm, Terraform, GitHub Actions, Jenkins, Spring Boot
-- Cloud & Infrastructure: AWS, GCP, Azure, Linux
-- Monitoring & Observability: Prometheus, Grafana
-- Databases: PostgreSQL, MySQL
-
----
 **🤝 Let's Connect!**
 https://www.linkedin.com/in/debbie-mong-are-905584131/
 
