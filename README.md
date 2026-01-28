@@ -5,7 +5,8 @@ Hi there 👋, I'm Debbie Mong’are
 ---
 
 **💡 About Me**
-- ⚙️ Interests in Android, Data, Site Reliability, AI/ML, Full-stack development
+- ⚙️ Androi
+- ⚙️ Interests in Android, Site Reliability, Data, AI/ML, Back-End
 - 🌱 Currently prepping for CKA ( Certified Kubernetes Administrator ) - Linux Foundation Lift Scholar
 - 🧠 Learning continuously through hands-on projects and open source contributions
 - 💖 Vegetarian | 🤸🏽‍♀️ Fitness Enthusiast
