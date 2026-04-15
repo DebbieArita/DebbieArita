@@ -5,7 +5,7 @@ Hi there 👋, I'm Debbie Mong’are
 ---
 
 **💡 About Me**
-- ⚙️ Interests in Android, Site Reliability, Data Engineering, Back-End, Cloud : GCP, AWS, Azure
+- ⚙️ Interests in Android, Platform Engineering, Data Engineering, Back-End, Cloud, AI/ML
 - 🌱 Linux Foundation Lift Scholar - Road to CKA ( Certified Kubernetes Administrator ) 
 - 🧠 Learning continuously through hands-on projects and open source contributions
 - 💖 Vegetarian | 🤸🏽‍♀️ Fitness Enthusiast | Outdoorsy
